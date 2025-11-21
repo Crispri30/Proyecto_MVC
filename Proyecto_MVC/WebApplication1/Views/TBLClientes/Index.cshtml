@@ -1,0 +1,35 @@
+﻿@Model IEnumerable<Proyecto_MVC.Models.TBLClientes>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Administracion de clientes</h2>
+
+    <div class="well"><a href="~/TBLClientes/Nuevo" class="btn btn-primary">Nuevo</a></div>
+
+    <table class="table">
+
+        <tr>
+            <th>Nombre Cliente</th>
+            <th>Documento</th>
+            <th>Email</th>
+            <th>Telefono</th>
+            <th>Direccion</th>
+            <th>Acciones</th>
+        </tr>
+
+
+        @foreach (var cliente in Model)
+        {
+            //llenado automatico en la tabla de clientes
+            <tr>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.Documento</td>
+                <td>@cliente.Email</td>
+                <td>@cliente.Telefono</td>
+                <td>@cliente.Direccion</td>
+                <td><a href="#" class="btn btn-success">Editar</a> <a href="#" class="btn btn-danger">Borrar</a> </td>
+            </tr>
+        }
+        </table>

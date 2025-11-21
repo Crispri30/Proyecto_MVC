@@ -1,0 +1,30 @@
+﻿@Model IEnumerable<Proyecto_MVC.Models.TBLEmpleado>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Administracion de empleados</h2>
+
+    <!--El href para crear nuevo empleado, se indica la ruta del controlador TBLEmpleado y la accion Nuevo-->
+
+    <div class="well"><a href="~/TBLEmpleado/Nuevo" class="btn btn-primary">Nuevo</a></div>
+
+    <table class="table">
+        <tr>
+            <th>Nombre</th>
+            <th>Documento</th>
+            <th>Correo</th>
+            <th>Acciones</th>
+        </tr>
+
+        @foreach (var empleado in Model)
+        { //Mostrar en la tabla los empleados
+            <tr>
+                <td>@empleado.Nombre</td>
+                <td>@empleado.Documento</td>
+                <td>@empleado.Email</td>
+                <td><a href="~/TBLEmpleado/Editar/@empleado.EmpleadoID" class="btn btn-success">Editar</a> <a href="~/TBLEmpleado/Eliminar/@empleado.EmpleadoID" class="btn btn-danger">Borrar</a></td>
+            </tr>
+        }
+    </table>

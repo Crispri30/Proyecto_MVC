@@ -1,0 +1,32 @@
+﻿@Model IEnumerable<Proyecto_MVC.Models.TBLProductos>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>Administración de productos</h2>
+
+    <div class="well"><a href="#" class="btn btn-primary">Nuevo</a></div>
+
+    <table class="table">
+
+        <tr>
+            <th>Nombre Producto</th>
+            <th>Documento</th>
+            <th>Email</th>
+            <th>Stock</th>
+            <th>Acciones</th>
+        </tr>
+
+        @foreach (var producto in Model) // llenado automatico en la tabla de productos de la web
+        {
+            <tr>
+                //Llenado automatico de la tabla productos
+                <td>@producto.NombreProducto</td>
+                <td>@producto.Descripcion</td>
+                <td>@producto.Precio</td>
+                <td>@producto.Stock</td>
+                <td><a href="#" class="btn btn-success">Editar</a> <a href="#" class="btn btn-danger">Borrar</a> </td>
+            </tr>
+        }
+        </table>

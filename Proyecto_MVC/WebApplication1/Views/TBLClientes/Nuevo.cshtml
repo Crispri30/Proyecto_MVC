@@ -1,0 +1,20 @@
+﻿@model WebApplication1.Models.Clientes
+@{
+    ViewBag.Title = "Nuevo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="well">Ingresar nuevo cliente</h2>
+
+@using (Html.BeginForm("Nuevo", "Clientes", FormMethod.Post))
+{
+    <p>@Html.LabelFor(m => m.Nombre) : @Html.TextBoxFor(m => m.Nombre)</p>
+    <p>@Html.LabelFor(m => m.Documento) : @Html.TextBoxFor(m => m.Documento)</p>
+    <p>@Html.LabelFor(m => m.Telefono) : @Html.TextBoxFor(m => m.Telefono)</p>
+    <p>@Html.LabelFor(m => m.Email) : @Html.TextBoxFor(m => m.Email)</p>
+    <p>@Html.LabelFor(m => m.Direccion) : @Html.TextBoxFor(m => m.Direccion)</p>
+
+
+    <input value="Guardar" type="submit" class="btn btn-success" />
+    <a class="btn btn-primary" href="/TBLClientes">Retornar</a>
+}
