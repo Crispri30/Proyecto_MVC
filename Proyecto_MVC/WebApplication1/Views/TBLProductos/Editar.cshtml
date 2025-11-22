@@ -1,0 +1,19 @@
+﻿@model WebApplication1.Models.Productos
+@{
+    ViewBag.Title = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Editar</h2>
+
+@using (Html.BeginForm("Editar", "TBLProductos", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.IdProducto) <!--Indicar que se le envia tambien el id del producto-->
+    <p>@Html.LabelFor(m => m.NombreProducto) : @Html.TextBoxFor(m => m.NombreProducto)</p>
+    <p>@Html.LabelFor(m => m.Descripcion) : @Html.TextBoxFor(m => m.Descripcion)</p>
+    <p>@Html.LabelFor(m => m.Precio) : @Html.TextBoxFor(m => m.Precio)</p>
+    <p>@Html.LabelFor(m => m.Stock) : @Html.TextBoxFor(m => m.Stock)</p>
+
+    <input value="Guardar " type="submit" class="btn btn-success" />
+    <a class="btn btn-primary" href="~/TBLProductos">Return</a>
+}

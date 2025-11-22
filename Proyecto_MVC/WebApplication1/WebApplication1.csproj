@@ -236,6 +236,9 @@
     <Content Include="Views\TBLClientes\Nuevo.cshtml" />
     <Content Include="Views\TBLEmpleado\Nuevo.cshtml" />
     <Content Include="Views\TBLEmpleado\Editar.cshtml" />
+    <Content Include="Views\TBLClientes\Editar.cshtml" />
+    <Content Include="Views\TBLProductos\Nuevo.cshtml" />
+    <Content Include="Views\TBLProductos\Editar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

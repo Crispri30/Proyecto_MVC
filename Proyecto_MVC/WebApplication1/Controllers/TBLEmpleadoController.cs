@@ -56,6 +56,7 @@ namespace WebApplication1.Controllers
 
             return View(empleado);
         }
+
         [HttpPost]
         public ActionResult Editar(Empleados model) //Recibir el modelo de empleado modificado de la vista
         {

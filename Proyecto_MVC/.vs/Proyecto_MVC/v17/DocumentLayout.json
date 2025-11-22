@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\controllers\\tblempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tblempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblproductos\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblproductos\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblempleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblempleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\controllers\\tblproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tblproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblempleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblproductos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblproductos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblproductos\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\webapplication1\\views\\tblempleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblempleado\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\webapplication1\\controllers\\tblempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tblempleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\onedrive\\escritorio\\contactos proyecto\\proyecto_mvc\\webapplication1\\views\\tblempleado\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblempleado\\nuevo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\webapplication1\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\webapplication1\\views\\tblempleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1382717F-CC77-444C-8CBE-E79A1BAE672D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\tblempleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Nuevo.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Nuevo.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLEmpleado\\Nuevo.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Nuevo.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\TBLEmpleado\\Nuevo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Nuevo.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLProductos\\Nuevo.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Nuevo.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TBLProductos\\Nuevo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T01:31:21.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T01:30:30.559Z",
+              "WhenOpened": "2025-11-22T22:05:33.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Empleados.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Models\\Empleados.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Empleados.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Models\\Empleados.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Empleados.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T00:56:43.65Z",
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Editar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLProductos\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Editar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TBLProductos\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T21:04:08.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLProductos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLProductos\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TBLProductos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T20:22:25.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TBLProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\TBLProductosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TBLProductosController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\TBLProductosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TBLProductosController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:22:10.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\TBLEmpleado\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-22T17:57:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TBLEmpleadoController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\TBLEmpleadoController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TBLEmpleadoController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\TBLEmpleadoController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\TBLEmpleadoController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwDMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T23:45:26.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\TBLEmpleado\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Views\\TBLEmpleado\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\TBLEmpleado\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAACKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-21T00:45:52.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PrincipalController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\PrincipalController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PrincipalController.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Escritorio\\Contactos proyecto\\Proyecto_MVC\\WebApplication1\\Controllers\\PrincipalController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PrincipalController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T00:57:48.503Z"
+              "WhenOpened": "2025-11-22T16:50:27.727Z"
             }
           ]
         }

@@ -1,0 +1,22 @@
+CREATE TABLE Empleados (
+	EmpleadoID INT IDENTITY(1,1) PRIMARY KEY,
+	Nombre NVARCHAR(100) NOT NULL,
+	Documento NVARCHAR(20) NOT NULL,
+	Email NVARCHAR(100) NOT NULL,
+	FechaIngreso DATE NOT NULL
+);
+CREATE TABLE Clientes (
+    ClienteID INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Documento VARCHAR(20) UNIQUE NOT NULL,
+    Telefono VARCHAR(20),
+    Email VARCHAR(100),
+    Direccion VARCHAR(200)
+);
+CREATE TABLE Productos (
+    IdProducto INT IDENTITY(1,1) PRIMARY KEY,
+    NombreProducto VARCHAR(150) NOT NULL,
+    Descripcion VARCHAR(300),
+    Precio DECIMAL(10,2) NOT NULL,
+    Stock INT NOT NULL,
+);

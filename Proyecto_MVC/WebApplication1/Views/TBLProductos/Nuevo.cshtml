@@ -1,0 +1,18 @@
+﻿@model WebApplication1.Models.Productos
+@{
+    ViewBag.Title = "Nuevo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Nuevo</h2>
+
+@using (Html.BeginForm("Nuevo", "TBLProductos", FormMethod.Post))
+{
+    <p>@Html.LabelFor(m => m.NombreProducto) : @Html.TextBoxFor(m => m.NombreProducto)</p>
+    <p>@Html.LabelFor(m => m.Descripcion) : @Html.TextBoxFor(m => m.Descripcion)</p>
+    <p>@Html.LabelFor(m => m.Precio) : @Html.TextBoxFor(m => m.Precio)</p>
+    <p>@Html.LabelFor(m => m.Stock) : @Html.TextBoxFor(m => m.Stock)</p>
+
+    <input value="Guardar" type="submit" class="btn btn-success" />
+    <a class="btn btn-primary" href="~/TBLProductos">Retornar</a>
+}
